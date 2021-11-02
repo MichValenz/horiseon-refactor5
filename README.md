@@ -6,13 +6,17 @@ Horiseon is a webpage dedicated to Search Engine Optimization (SEO). The purpose
 ![screenshot of Horiseon website](Develop/images/Horisesonheader.png)
 
 
-## Completed Updates
--Alt text was added to all images for accessibility
--CSS styles were reorganized to follow structure of website
--CSS styles were consolidated to remove redudancy
--Updated elements to be more semantic allowing the site more specificity for accessibility
--Comments were added to HTML and CSS documents to provide a visual guide and structure for future writing
--A title was added
+## Tasks Completed
+* Alt text was added to all images for accessibility
+* CSS styles were reorganized to follow structure of website
+* CSS styles were consolidated to remove redudancy
+* Updated elements to be more semantic allowing the site more specificity for accessibility
+* Comments were added to HTML and CSS documents to provide a visual guide and structure for future writing
+* A title was added
+
+## Links
+* [Link to the deployed website](https://michvalenz.github.io/horiseon-refactor5/)
+* [Link to the code repository](https://github.com/MichValenz/horiseon-refactor5)
 
 ## Installation
 Upload all files, including index.html and style.css
