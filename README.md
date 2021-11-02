@@ -3,7 +3,7 @@
 ## Description
 Horiseon is a webpage dedicated to Search Engine Optimization (SEO). The purpose of this project was to address inefficiencies of the previous code that created concerns with accessibility and efficiency.
 
-![screenshot of Horiseon website](Develop/assets/images/Horisesonheader.png)
+![screenshot of Horiseon website](Develop/images/Horisesonheader.png)
 
 
 ## Completed Updates
